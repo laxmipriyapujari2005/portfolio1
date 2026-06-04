@@ -1,4 +1,4 @@
-# Preethi's Portfolio
+# my Portfolio
 
 ## Blogs
 - Blog 1: https://medium.com/@laxmipriyapujari11/my-learning-experience-at-google-gen-ai-study-jam-2024-492904709e9c
