@@ -11,4 +11,12 @@
 - https://skill-learn-by-priya.onrender.com/
 
 ## Skills
-C, C++, Java, Python, JavaScript
+- Programming Languages: C, C++, Java, Python, JavaScript
+- Web Development: HTML, CSS, JavaScript
+- Database: MySQL, DynamoDB
+- Cloud Computing: AWS (Basics)
+- Version Control: Git, GitHub
+- Problem Solving & Competitive Programming
+- Data Structures and Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Machine Learning (Beginner)
